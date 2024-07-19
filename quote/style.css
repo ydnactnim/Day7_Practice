@@ -1,0 +1,47 @@
+body {
+  background-image: url("./img/2.jpg");
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content_box {
+  width: 40vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text_box {
+  width: 800px;
+  height: 500px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote_box {
+  background-color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.name_box {
+  background-color: white;
+  font-size: 35px;
+  text-align: center;
+}
+
+.re_btn {
+  background-color: white;
+  cursor: pointer;
+  border-radius: 100%;
+}
