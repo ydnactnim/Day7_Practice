@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+}
+
+.content-box {
+  width: 100vw;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-box {
+  height: 30%;
+  font-size: 60px;
+}
+
+.button-box {
+  height: 10%;
+  background-color: aquamarine;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+.output-box {
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+}
+
+.init-box {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  background-color: aquamarine;
+  border-radius: 3px;
+}
+
+.init-text {
+  background-color: white;
+  font-size: 20px;
+}
+
+.init-out {
+}
+
+.luck-box {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  background-color: aquamarine;
+  border-radius: 3px;
+}
+
+.luck-text {
+  background-color: white;
+  font-size: 20px;
+}
+
+.luck-out {
+}
